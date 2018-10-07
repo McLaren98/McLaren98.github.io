@@ -43,18 +43,18 @@
         "source": {
             "type": "git",
             "url": "https://github.com/Athlon1600/php-proxy-plugin-bundle.git",
-            "reference": "feb4467bb78a0c31ae26acdbdb10847ab4c50c7f"
+            "reference": "6f58fbba44c2b6ccf33c2fba1aaee2f3f5681193"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/Athlon1600/php-proxy-plugin-bundle/zipball/feb4467bb78a0c31ae26acdbdb10847ab4c50c7f",
-            "reference": "feb4467bb78a0c31ae26acdbdb10847ab4c50c7f",
+            "url": "https://api.github.com/repos/Athlon1600/php-proxy-plugin-bundle/zipball/6f58fbba44c2b6ccf33c2fba1aaee2f3f5681193",
+            "reference": "6f58fbba44c2b6ccf33c2fba1aaee2f3f5681193",
             "shasum": ""
         },
         "require": {
             "athlon1600/youtube-downloader": "^1.0"
         },
-        "time": "2017-11-19 18:22:17",
+        "time": "2018-04-01 19:18:27",
         "type": "library",
         "installation-source": "source",
         "autoload": {
